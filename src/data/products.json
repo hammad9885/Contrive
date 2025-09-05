@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Rustic Farmhouse Dining Table",
+    "category": "DINING",
+    "oldPrice": "80.00",
+    "price": "48.00",
+    "image": "/images/imgi_160_high-angle-dining-table-background-zoom-calls.jpg",
+    "colors": ["#000000", "#D2691E", "#FFA500", "#800080"]
+  },
+  {
+    "id": 2,
+    "title": "Mid-Century Modern Sofa",
+    "category": "LIVING ROOM",
+    "oldPrice": "80.00",
+    "price": "67.00",
+    "image": "/images/imgi_30_japandi-boho-beige-interior-with-sofa-stucco-background-light-modern-australian.jpg",
+    "colors": ["#000000", "#D2691E", "#FFA500", "#800080"]
+  },
+  {
+    "id": 3,
+    "title": "Luxury Living Dresser",
+    "category": "BEDROOM",
+    "oldPrice": "160.00",
+    "price": "93.00",
+    "image": "/images/imgi_59_house-lighting-lamp-interior-realistic-composition-with-designer-furniture.jpg",
+    "colors": ["#000000", "#D2691E", "#FFA500", "#800080"]
+  },
+  {
+    "id": 4,
+    "title": "Industrial-Style Accent Chair",
+    "category": "OFFICE",
+    "oldPrice": "48.00",
+    "price": "26.00",
+    "image": "/images/imgi_50_close-up-chair-field-against-building.jpg",
+    "colors": ["#000000", "#D2691E", "#FFA500", "#800080"]
+  },
+  {
+    "id": 5,
+    "title": "Versatile Storage Ottoman",
+    "category": "LIVING ROOM",
+    "oldPrice": "60.00",
+    "price": "42.00",
+    "image": "/images/imgi_40_close-up-snow-table-home_1048944.jpg",
+    "colors": ["#000000", "#D2691E", "#FFA500", "#800080"]
+  },
+  {
+    "id": 6,
+    "title": "Elegant Floor Lamp",
+    "category": "LIVING ROOM",
+    "oldPrice": "30.00",
+    "price": "24.00",
+    "image": "/images/imgi_157_vector-set-floor-table-lamps-with-black-nightstand-isolated-white-background.jpg",
+    "colors": ["#000000", "#D2691E", "#FFA500", "#800080"]
+  },
+  {
+    "id": 7,
+    "title": "Rustic Farmhouse Dining Table",
+    "category": "DINING",
+    "oldPrice": "68.00",
+    "price": "48.00",
+    "image": "/images/imgi_63_dining-room-background-zoom-calls.jpg",
+    "colors": ["#000000", "#D2691E", "#FFA500", "#800080"]
+  },
+  {
+    "id": 8,
+    "title": "Mid-Century Modern Sofa",
+    "category": "LIVING ROOM",
+    "oldPrice": "85.00",
+    "price": "67.00",
+    "image": "/images/imgi_13_modern-furniture-design-with-stylish-sofa-elegant-room-decor-contemporary-interior-architecture.jpg",
+    "colors": ["#D2691E", "#A52A2A", "#008080", "#4682B4"]
+  },
+  {
+    "id": 9,
+    "title": "Luxury Living Dresser",
+    "category": "BEDROOM",
+    "oldPrice": "60.00",
+    "price": "34.00",
+    "image": "/images/imgi_59_life-style.jpg",
+    "colors": ["#000000", "#008000", "#0000FF", "#800080"]
+  },
+  {
+    "id": 10,
+    "title": "Industrial-Style Accent Chair",
+    "category": "OFFICE",
+    "oldPrice": "68.00",
+    "price": "26.00",
+    "image": "/images/imgi_46_comfy-wing-chair-carpenter-s-workshop.jpg",
+    "colors": ["#D2691E", "#A52A2A", "#008080", "#4682B4"]
+  },
+  {
+    "id": 11,
+    "title": "Versatile Storage Ottoman",
+    "category": "LIVING ROOM",
+    "oldPrice": "85.00",
+    "price": "42.00",
+    "image": "/images/imgi_20_spacious-stylish-contemporary-storage-ottoman-ideal-modern-living-rooms-creative-storage-solutions.jpg",
+    "colors": ["#D2691E", "#A52A2A", "#008080", "#4682B4"]
+  },
+  {
+    "id": 12,
+    "title": "Elegant Floor Lamp",
+    "category": "LIVING ROOM",
+    "oldPrice": "60.00",
+    "price": "33.00",
+    "image": "/images/imgi_14_close-up-illuminated-lamp-home.jpg",
+    "colors": ["#D2691E", "#FFA500", "#008000", "#800080"]
+  },
+  {
+    "id": 13,
+     "title": "Elegance Dining Table",
+    "category": "DINING",
+    "oldPrice": "85.00",
+    "price": "62.00",
+    "image": "/images/imgi_14_table-with-black-table-chairs-black-wall-it.jpg",
+    "colors": ["#D2691E", "#A52A2A", "#008080", "#4682B4"]
+  },
+  {
+    "id": 14,
+    "title": "Serenity Room Sofa",
+    "category": "LIVING ROOM",
+    "oldPrice": "60.00",
+    "price": "42.00",
+    "image": "/images/imgi_157_room-decor-with-potted-plants-sofa.jpg",
+    "colors": ["#D2691E", "#A52A2A", "#008080", "#000000"]
+  },
+  {
+    "id": 15,
+    "title": "Chic Lounge Chair",
+    "category": "LIVING ROOM",
+    "oldPrice": "60.00",
+    "price": "39.00",
+    "image": "/images/imgi_122_photographer-chen-mans-fashionable-photography-style-features-black-leather-threeseater-recliner_1354518-1861.jpg",
+    "colors": ["#000000", "#FFA500", "#008000", "#0000FF"]
+  }
+]
